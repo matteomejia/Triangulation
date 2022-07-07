@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "modelgeneration"
+version = "0.1.0"
+description = ""
+authors = ["Francisco Mejía <fmejiaantezano@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = ">=3.8,<3.11"
+ipykernel = "^6.15.0"
+numpy = "^1.23.0"
+matplotlib = "^3.5.2"
+pydicom = "^2.3.0"
+scikit-image = "^0.19.3"
+
+[tool.poetry.dev-dependencies]
+black = "^22.6.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
