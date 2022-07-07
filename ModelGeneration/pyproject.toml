@@ -11,6 +11,8 @@ numpy = "^1.23.0"
 matplotlib = "^3.5.2"
 pydicom = "^2.3.0"
 scikit-image = "^0.19.3"
+visvis = "^1.13.0"
+PyQt5 = "^5.15.7"
 
 [tool.poetry.dev-dependencies]
 black = "^22.6.0"
