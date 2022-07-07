@@ -6,6 +6,8 @@ El proyecto fue desarrollado en Visual Studio. Para ejecutarlo es necesario cont
 * GLAD
 * OpenGL
 
+La generación del modelo fue hecha con Python. Las librerías utilizadas en la generación se puede installar con el administrador de paquetes [Poetry](https://python-poetry.org/).
+
 # Cómo Usar
 
 ## Generación del modelo
